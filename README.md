@@ -5,6 +5,11 @@
 
 </br>
 
+* Blog: https://blog.naver.com/jqkt15
+* Email: java_script@kakao.com
+</br>
+
+
 # TimeTable Generator - Beta2 (시간표 생성기)
 
 <div>
